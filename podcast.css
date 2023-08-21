@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+}
+
+.bg-home {
+
+    height: 30vh;
+    width: cover;
+
+}
+
+.card {
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px;
+}
+
+.heading-s {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    color: blue;
+
+}
+
+.paragraph-s {
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+    color: blue;
+
+}
+
+.puri-card {
+    height: 20vh;
+    background-size: cover;
+
+    padding: 15px;
+    margin: 15px;
+
+
+}
+
+.image-puri {
+    height: 110px;
+    width: 160px;
+    padding: 10px;
+}
+
+.heading {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin: 5px;
+
+
+}
+
+.paragraph {
+    font-size: 15px;
+    color: black;
+    margin: 10px;
+}
+
+.sujvil {
+    color: #151765;
+
+}
+
+.chinna {
+    background-color: #5a7184;
+    color: white;
+}
+
+.button {
+    height: 30px;
+    width: 90px;
+
+    font-size: 10px;
+    border-radius: 100px;
+}
+
+.tedx-card {
+    height: 20vh;
+    background-size: cover;
+
+
+
+
+
+}
+
+.image-tedx {
+    height: 110px;
+    width: 160px;
+    padding: 10px;
+}
+
+.heading {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin: 5px;
+
+
+}
+
+.paragraph {
+    font-size: 15px;
+    color: black;
+    margin: 5px;
+}
+
+.sujvil {
+    color: #151765;
+
+}
+
+.chinna {
+    background-color: #5a7184;
+    color: white;
+}
+
+.button {
+    height: 30px;
+    width: 90px;
+
+    font-size: 10px;
+    border-radius: 100px;
+}
+
+.guru-card {
+    height: 20vh;
+    background-size: cover;
+
+
+
+
+
+}
+
+.image-guru {
+    height: 110px;
+    width: 160px;
+    padding: 10px;
+}
+
+.heading {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin: 5px;
+
+
+}
+
+.paragraph {
+    font-size: 15px;
+    color: black;
+    margin: 5px;
+}
+
+.sujvil {
+    color: #151765;
+
+}
+
+.chinna {
+    background-color: #5a7184;
+    color: white;
+}
+
+.button {
+    height: 30px;
+    width: 90px;
+
+    font-size: 10px;
+    border-radius: 100px;
+}
+
+.jay-card {
+    height: 20vh;
+    background-size: cover;
+
+    padding: 10px;
+    margin: 10px;
+
+
+}
+
+.image-jay {
+    height: 110px;
+    width: 160px;
+}
+
+.heading {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin: 5px;
+
+
+}
+
+.paragraph {
+    font-size: 15px;
+    color: black;
+    margin: 10px;
+}
+
+.sujvil {
+    color: #151765;
+
+}
+
+.chinna {
+    background-color: #5a7184;
+    color: white;
+}
+
+.button {
+    height: 30px;
+    width: 90px;
+
+    font-size: 10px;
+    border-radius: 100px;
+}
